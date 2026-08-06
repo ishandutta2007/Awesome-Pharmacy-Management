@@ -1,6 +1,6 @@
 # Awesome-Pharmacy-Management
 
-# Top Pharmacy Management Tools Ecosystem
+## Top Pharmacy Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Pharmacy Management Systems (PMS), Dispensing, Inventory, Workflow & Independent Pharmacy Software*  

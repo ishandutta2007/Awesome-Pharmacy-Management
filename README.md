@@ -28,15 +28,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Estimated) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[PioneerRx](https://www.pioneerrx.com/)** (RedSail Technologies) | 🌟 Feature-rich pharmacy management system widely regarded as a market leader for independent pharmacies, offering advanced dispensing, clinical tools, workflow customization, inventory, and patient care features. | ~$500 - $1,500/mo | N/A | $100M+ |
-| **[ScriptPro](https://www.scriptpro.com/)** | 🤖 Pharmacy automation and management solutions combining robotics with software for high-volume and efficient dispensing operations. | $20k+ upfront + $1k+/mo | N/A | $100M+ |
-| **[Rx30](https://www.rx30.com/)** | 💼 Pharmacy management software focused on independent pharmacies with dispensing, inventory, and workflow capabilities. | ~$400 - $1,000/mo | N/A | $90M+ |
-| **[QS/1 (NRx)](https://www.qs1.com/)** | 🏥 Established pharmacy management platform (now part of broader RedSail offerings) supporting dispensing, claims, and pharmacy operations. | ~$500 - $1,500/mo | N/A | $80M+ |
-| **[PrimeRx](https://www.primerx.com/)** (Micro Merchant Systems) | 📊 Comprehensive pharmacy management platform covering prescription intake, dispensing, inventory, billing, patient engagement, and support for retail, specialty, LTC, and compounding workflows. | ~$300 - $1,200/mo | N/A | $50M+ |
-| **[Computer-Rx](https://www.computer-rx.com/)** | 💻 Pharmacy management system providing prescription processing, inventory, and business tools for retail pharmacies. | ~$400 - $1,000/mo | N/A | $40M+ |
-| **[Liberty Software](https://www.libertysoftware.com/)** | 🗽 Pharmacy management solution focused on independent pharmacies with strong dispensing, inventory, and operational tools. | Custom Quote (~$500+/mo) | N/A | $30M+ |
-| **[Datascan / WinPharm](https://www.datascan.com/)** | 📈 Long-standing pharmacy management and POS solutions used by independent pharmacies for dispensing and front-end operations. | ~$250 - $400/mo | N/A | $20M+ |
-| **[BestRx](https://www.bestrx.com/)** | 🏆 Affordable and capable pharmacy management software popular with smaller independent pharmacies for core dispensing and workflow needs. | ~$150 - $300/mo | N/A | $15M+ |
+| **[PioneerRx](https://www.pioneerrx.com/)** (RedSail Technologies) | 🌟 Feature-rich pharmacy management system widely regarded as a market leader for independent pharmacies, offering advanced dispensing, clinical tools, workflow customization, inventory, and patient care features. | ~$500 - $1,500/mo | No free tier (Demo only) | $100M+ |
+| **[ScriptPro](https://www.scriptpro.com/)** | 🤖 Pharmacy automation and management solutions combining robotics with software for high-volume and efficient dispensing operations. | $20k+ upfront + $1k+/mo | No free tier | $100M+ |
+| **[Rx30](https://www.rx30.com/)** | 💼 Pharmacy management software focused on independent pharmacies with dispensing, inventory, and workflow capabilities. | ~$400 - $1,000/mo | No free tier (Demo only) | $90M+ |
+| **[QS/1 (NRx)](https://www.qs1.com/)** | 🏥 Established pharmacy management platform (now part of broader RedSail offerings) supporting dispensing, claims, and pharmacy operations. | ~$500 - $1,500/mo | No free tier (Demo only) | $80M+ |
+| **[PrimeRx](https://www.primerx.com/)** (Micro Merchant Systems) | 📊 Comprehensive pharmacy management platform covering prescription intake, dispensing, inventory, billing, patient engagement, and support for retail, specialty, LTC, and compounding workflows. | ~$300 - $1,200/mo | No free tier (Demo only) | $50M+ |
+| **[Computer-Rx](https://www.computer-rx.com/)** | 💻 Pharmacy management system providing prescription processing, inventory, and business tools for retail pharmacies. | ~$400 - $1,000/mo | No free tier (Demo only) | $40M+ |
+| **[Liberty Software](https://www.libertysoftware.com/)** | 🗽 Pharmacy management solution focused on independent pharmacies with strong dispensing, inventory, and operational tools. | Custom Quote (~$500+/mo) | No free tier (Demo only) | $30M+ |
+| **[Datascan / WinPharm](https://www.datascan.com/)** | 📈 Long-standing pharmacy management and POS solutions used by independent pharmacies for dispensing and front-end operations. | ~$250 - $400/mo | No free tier (Demo only) | $20M+ |
+| **[BestRx](https://www.bestrx.com/)** | 🏆 Affordable and capable pharmacy management software popular with smaller independent pharmacies for core dispensing and workflow needs. | ~$150 - $300/mo | Free demo available | $15M+ |
 
 ---
 
